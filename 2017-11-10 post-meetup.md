@@ -1,0 +1,21 @@
+¡Hola JavaScript@s! 
+
+Gracias a todos por haber asistido y participado en el último meetup.
+
+¡Queremos agradecer de forma especial a nuestros amigos de AxiomZen por prestarnos sus oficinas para evento!
+
+Adicionalmente, agradecer a los expositores por darse el tiempo de compartir su experiencia con nosotros:
+
+    • Cristofer Robles (... insertar slides de las charlas ...)
+
+    • Cesar Encina (... insertar slides de las charlas ...)
+
+    • Felipe Torres (... insertar slides de las charlas ...)
+        
+Queremos aprovechar la oportunidad para invitarte a participar en el sorteo de un QubicJS y Stickers que realizaremos por twitter, para concursar solo debes seguir la cuenta de @NoderCL(... link a la cuenta de twitter ...) en twitter y hacer RT al tweet del sorteo (... link al tweet del concurso ...)
+
+Sabemos que tienes una charla fantástica que compartir y ¡queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) con un issue en este link (https://github.com/Noders/Meetups/issues/new)
+
+Invitamos también a quienes quieran pertenecer a nuestro grupo de patrocinadores. Pueden colaborar con nosotros como venue (prestando espacios para los eventos), con las pizzas o las cervezas. ¡Todo es bienvenido! Déjanos la información para contactarte haciendo click aquí (https://github.com/Noders/Meetups/issues/new) o si prefieren, escríbenos a hola@noders.com
+
+¡Un abrazo asíncrono y nos vemos en próximo el Meetup!
