@@ -12,7 +12,7 @@ Adicionalmente, agradecer a los expositores por darse el tiempo de compartir su 
 
     • Felipe Torres [DEMO y Slides](https://github.com/fforres/NodeConfAR17)
         
-Queremos aprovechar la oportunidad para invitarte a participar en el sorteo de un QubicJS y stickers. Para concursar debes [seguirnos en Twitter](https://twitter.com/NodersCL) y darle RT al tweet del sorteo.
+Queremos aprovechar la oportunidad para invitarte a participar en el sorteo de un QubicJS y stickers. Para concursar debes [seguirnos en Twitter](https://twitter.com/NodersCL) y darle RT al tweet del sorteo. El ganador será anunciado en el Meetup de diciembre, así que no te lo pierdas.
 
 Sabemos que tienes una charla fantástica que compartir y ¡queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) con un issue en este link (https://github.com/Noders/Meetups/issues/new)
 
