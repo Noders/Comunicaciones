@@ -1,6 +1,6 @@
 ¡Hola Javascript@s!
 
-Se acerca nuestro próximo meetup "[Star Vars: The Last Promises](https://www.meetup.com/es-ES/NodersJS/events/239484529/)"  el **14 de diciembre**. En esta oportunidad son nuestros amigos de Groupon LatAm quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[Star Vars: The Last Promise](https://www.meetup.com/es-ES/NodersJS/events/239484529/)"  el **14 de diciembre**. En esta oportunidad son nuestros amigos de Groupon LatAm quienes nos recibirán en sus oficinas.
 
 Ya tenemos a nuestros speakers confirmados:
 
