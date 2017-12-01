@@ -2,7 +2,7 @@
 
 Gracias a todos por haber asistido y participado en el último meetup.
 
-¡Queremos agradecer de forma especial a nuestros amigos de GrouponLATAM por prestarnos sus oficinas para evento y auspiciar la comida y las bebidas!
+¡Queremos agradecer de forma especial a nuestros amigos de Groupon LatAm por prestarnos sus oficinas para evento y auspiciar la comida y las bebidas!
 
 Adicionalmente, agradecer a los charlistas por darse el tiempo de compartir su experiencia con nosotros:
 
