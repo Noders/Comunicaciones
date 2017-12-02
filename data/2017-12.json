@@ -1,0 +1,29 @@
+{
+  "name": "Star Vars: The Last Promise",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/239484529/",
+  "date": "Jueves 14 de Diciembre",
+  "venue": {
+    "name": "Groupon LatAm",
+    "address": "Avenida Vitacura 2771, Piso 9, Las Condes"
+  },
+  "talks": [
+    {
+      "type": "Lightning Talk",
+      "title": "Configurando un proyecto Phaser en Typescript y Webpack",
+      "speaker": "María Castro",
+      "url": "https://github.com/BlackHarpy"
+    },
+    {
+      "type": "Keynote",
+      "title": "The Wolf of Bitfinex**: Usando la API de Bitfinex para crear alertas del mercado de criptomonedas",
+      "speaker": "Leonardo Graterol",
+      "url": "https://github.com/pankas87"
+    },
+    {
+      "type": "Keynote",
+      "title": "La Nueva Era del front-end en Groupon LatAm",
+      "speaker": "Alexander Espinoza",
+      "url": "https://github.com/alexandereb"
+    }
+  ]
+}
