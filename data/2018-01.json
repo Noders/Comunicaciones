@@ -1,0 +1,23 @@
+{
+  "name": "The legend of Noders",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/",
+  "date": "Jueves 11 de Enero",
+  "venue": {
+    "name": "Mercado Libre Chile",
+    "address": "Av. Apoquindo 4800, Torre 2, Piso 21, Las Condes"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Desarrollo de bots con Node.js y Microsoft Bot Framework",
+      "speaker": "Marcelo Felman",
+      "url": "https://github.com/marcelofelman"
+    },
+    {
+      "type": "Keynote",
+      "title": "Estos últimos 3 aÑoders",
+      "speaker": "Felipe Torres",
+      "url": "https://github.com/fforres"
+    }
+  ]
+}
