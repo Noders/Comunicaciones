@@ -1,6 +1,6 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[The legend of Noders](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)"  el **Jueves 11 de Enero**. En esta oportunidad son nuestros amigos de Mercado Libre Chile (Av. Apoquindo 4800, Torre 2, Piso 21, Las Condes) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[The legend of Noders](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)"  el **Jueves 11 de Enero**. En esta oportunidad son nuestros amigos de Mercado Libre Chile (Av. Apoquindo 4800, Piso 21, Las Condes. (Metro Escuela Militar)) quienes nos recibirán en sus oficinas.
 
 Tenemos a los siguientes charlistas confirmados:
 
