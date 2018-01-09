@@ -18,6 +18,19 @@
       "title": "Estos últimos 3 aÑoders",
       "speaker": "Felipe Torres",
       "url": "https://github.com/fforres"
+    },
+    {
+      "type": "Lightning Talk",
+      "title": "Una mirada rápida a WebAssembly",
+      "speaker": "Nicolás Ávila",
+      "url": "https://github.com/nicoavila"
+    },
+    {
+      "type": "Keynote",
+      "title": "Node.js: with performance in mind",
+      "speaker": "Oleh Burkhay",
+      "url": "https://github.com/atma"
     }
+
   ]
 }

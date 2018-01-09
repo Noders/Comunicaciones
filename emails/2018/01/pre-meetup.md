@@ -1,11 +1,13 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[The legend of Noders](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)"  el **Jueves 11 de Enero**. En esta oportunidad son nuestros amigos de Mercado Libre Chile (Av. Apoquindo 4800, Torre 2, Piso 21, Las Condes. (Metro Escuela Militar)) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[The legend of Noders](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)"  el **Jueves 11 de Enero**. En esta oportunidad son nuestros amigos de Mercado Libre Chile (Av. Apoquindo 4800, Piso 21, Las Condes. (Metro Escuela Militar)) quienes nos recibirán en sus oficinas.
 
 Tenemos a los siguientes charlistas confirmados:
 
 - Keynote: **Desarrollo de bots con Node.js y Microsoft Bot Framework**, [Marcelo Felman](https://github.com/marcelofelman)
 - Keynote: **Estos últimos 3 aÑoders**, [Felipe Torres](https://github.com/fforres)
+- Lightning Talk: **Una mirada rápida a WebAssembly**, [Nicolás Ávila](https://github.com/nicoavila)
+- Keynote: **Node.js: with performance in mind**, [Oleh Burkhay](https://github.com/atma)
 
 ¡Sabemos que tienes una charla fantástica que compartir y queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) [abriendo un issue en este link](https://github.com/Noders/Meetups/issues/new)
 
