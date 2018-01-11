@@ -10,7 +10,7 @@ Nos acompañaran en las charlas:
 - Keynote: **Node.js: with performance in mind**, [Oleh Burkhay](https://github.com/atma)
 
 Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)
-O por cualquier de nuestras redes:
+O por cualquiera de nuestras redes:
 
 Slack: [noders.slack.com](noders.slack.com)
 
