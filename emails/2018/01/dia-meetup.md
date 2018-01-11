@@ -18,6 +18,8 @@ Twitter: [@NodersJS](https://twitter.com/NodersJS)
 
 Facebook: [NodersJS](https://www.facebook.com/NodersJS/)
 
+¡Puedes usar el tag [#SantiagoJS](https://twitter.com/hashtag/santiagojs?f=tweets&vertical=default&src=hash) para que podamos ver tus comentarios y fotos!
+
 ¡Sabemos que tienes una charla fantástica que compartir y queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) [abriendo un issue en este link](https://github.com/Noders/Meetups/issues/new)
 
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí.](https://github.com/Noders/Meetups/issues/new)
