@@ -11,8 +11,6 @@ Adicionalmente, agradecer a la Pastelería BH por el delicioso pastel del cual p
 - Lightning Talk: **Una mirada rápida a WebAssembly**, [Nicolás Ávila](https://github.com/nicoavila)
 - Keynote: **Node.js: with performance in mind**, [Oleh Burkhay](https://github.com/atma)
 
-** FALTA AGREGAR SLIDES **
-
 Recuerda que siempre puedes contactarnos por las redes:
 
 Slack: [noders.slack.com](noders.slack.com)
