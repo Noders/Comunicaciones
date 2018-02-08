@@ -1,0 +1,29 @@
+{
+  "name": "Async y la ciudad de los Mil Await",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/246702592/",
+  "date": "Jueves 08 de Febrero",
+  "venue": {
+    "name": "Centro Comunitario Bellavista",
+    "address": "Constitución 85, Providencia. (Metro Baquedano)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Jugando con Shaders en WebGL",
+      "speaker": "Felipe Alfonso",
+      "url": "https://github.com/bitnenfer"
+    },
+    {
+      "type": "Lightning Talk",
+      "title": "Webs descentralizadas via blockchain y torrent",
+      "speaker": "Gabriel Pérez",
+      "url": "https://github.com/Yhozen"
+    },
+    {
+      "type": "Keynote",
+      "title": "Aprendizajes de trabajar con Phaser",
+      "speaker": "Jorge Palacios",
+      "url": "https://github.com/pctroll"
+    }
+  ]
+}
