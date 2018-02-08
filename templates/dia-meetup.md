@@ -2,7 +2,7 @@
 
 ¡Estamos muy emocionados por el meetup de hoy! "[%name%](%url%)" En esta oportunidad son nuestros amigos de %venue.name% (%venue.address%) quienes nos recibirán.
 
-Nos acompañaran en las charlas:
+Nos acompañarán en las charlas:
 
 %talks%
 
@@ -21,7 +21,7 @@ Facebook: [NodersJS](https://www.facebook.com/NodersJS/)
 
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí.](https://github.com/Noders/Meetups/issues/new)
 
-Todos los eventos se rigen por nuestro [codigo de conducta.](https://github.com/Noders/code_of_conduct)
+Todos los eventos se rigen por nuestro [código de conducta.](https://github.com/Noders/code_of_conduct)
 
 Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
 
