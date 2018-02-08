@@ -2,7 +2,7 @@
 
 ¡Estamos muy emocionados por el meetup de hoy! "[Async y la ciudad de los Mil Await](https://www.meetup.com/es-ES/NodersJS/events/246702592/)" En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán.
 
-Nos acompañaran en las charlas:
+Nos acompañarán en las charlas:
 
 - Keynote: **Jugando con Shaders en WebGL**, [Felipe Alfonso](https://github.com/bitnenfer)
 - Lightning Talk: **Webs descentralizadas via blockchain y torrent**, [Gabriel Pérez](https://github.com/Yhozen)
@@ -23,7 +23,7 @@ Facebook: [NodersJS](https://www.facebook.com/NodersJS/)
 
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí.](https://github.com/Noders/Meetups/issues/new)
 
-Todos los eventos se rigen por nuestro [codigo de conducta.](https://github.com/Noders/code_of_conduct)
+Todos los eventos se rigen por nuestro [código de conducta.](https://github.com/Noders/code_of_conduct)
 
 Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
 
