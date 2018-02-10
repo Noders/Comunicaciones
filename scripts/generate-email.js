@@ -14,7 +14,6 @@ const generateEmail = (type, date) => {
             talks[k] += `, puedes ver las [slides aquí](${talk.slidesUrl})`;
           }
         });
-
         template = template.replace(`%talks%`, talks.join('\n'));
       } else {
         for(let j = 0, subKeys = Object.keys(meetup[keys[i]]), subLen = subKeys.length; j < subLen; j++) {
