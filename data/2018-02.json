@@ -11,19 +11,22 @@
       "type": "Keynote",
       "title": "Jugando con Shaders en WebGL",
       "speaker": "Felipe Alfonso",
-      "url": "https://github.com/bitnenfer"
+      "url": "https://github.com/bitnenfer",
+      "slidesUrl": "https://github.com/bitnenfer/noders-gl/ "
     },
     {
       "type": "Lightning Talk",
       "title": "Webs descentralizadas via blockchain y torrent",
       "speaker": "Gabriel Pérez",
-      "url": "https://github.com/Yhozen"
+      "url": "https://github.com/Yhozen",
+      "slidesUrl": "https://drive.google.com/file/d/136DINLRsj4ejv3IdNnWUu0cbPmv4VQTL/view"
     },
     {
       "type": "Keynote",
       "title": "Aprendizajes de trabajar con Phaser",
       "speaker": "Jorge Palacios",
       "url": "https://github.com/pctroll"
+
     }
   ]
 }
