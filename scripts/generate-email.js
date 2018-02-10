@@ -11,7 +11,7 @@ const generateEmail = (type, date) => {
         meetup[keys[i]].forEach((talk, k) => {
           talks.push(`- ${talk.type}: **${talk.title}**, [${talk.speaker}](${talk.url})`);
           if(typeof talk.slidesUrl != 'undefined'){
-            talks[k] += `, [slides](${talk.slidesUrl})`;
+            talks[k] += `, puedes ver las [slides aquí](${talk.slidesUrl})`;
           }
         });
 

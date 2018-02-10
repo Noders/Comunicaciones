@@ -6,8 +6,8 @@ Gracias a todos por haber asistido y participado en el último meetup.
 
 Adicionalmente, agradecer a los charlistas por darse el tiempo de compartir su experiencia con nosotros:
 
-- Keynote: **Jugando con Shaders en WebGL**, [Felipe Alfonso](https://github.com/bitnenfer), [slides](https://github.com/bitnenfer/noders-gl/ )
-- Lightning Talk: **Webs descentralizadas via blockchain y torrent**, [Gabriel Pérez](https://github.com/Yhozen), [slides](https://drive.google.com/file/d/136DINLRsj4ejv3IdNnWUu0cbPmv4VQTL/view)
+- Keynote: **Jugando con Shaders en WebGL**, [Felipe Alfonso](https://github.com/bitnenfer), puedes ver las [slides aquí](https://github.com/bitnenfer/noders-gl/ )
+- Lightning Talk: **Webs descentralizadas via blockchain y torrent**, [Gabriel Pérez](https://github.com/Yhozen), puedes ver las [slides aquí](https://drive.google.com/file/d/136DINLRsj4ejv3IdNnWUu0cbPmv4VQTL/view)
 - Keynote: **Aprendizajes de trabajar con Phaser**, [Jorge Palacios](https://github.com/pctroll)
 
 ¿Quieres presentar una charla (15-30 minutos) o lightning (5-10 minutos)? Te invitamos a registrarla con un issue en este link (https://github.com/Noders/Meetups/issues/new)
