@@ -8,8 +8,11 @@ const generateEmail = (type, date) => {
     if(typeof meetup[keys[i]] === 'object') {
       if(keys[i] === 'talks') {
         const talks = [];
-        meetup[keys[i]].forEach(talk => {
+        meetup[keys[i]].forEach((talk, k) => {
           talks.push(`- ${talk.type}: **${talk.title}**, [${talk.speaker}](${talk.url})`);
+          if(typeof talk.slidesUrl != 'undefined'){
+            talks[k] += `, puedes ver las [slides aquí](${talk.slidesUrl})`;
+          }
         });
         template = template.replace(`%talks%`, talks.join('\n'));
       } else {

@@ -5,7 +5,8 @@
   "main": "scripts/generate-email.js",
   "scripts": {
     "email:pre-meetup": "node ./scripts/generate-email.js pre",
-    "email:post-meetup": "node ./scripts/generate-email.js post"
+    "email:post-meetup": "node ./scripts/generate-email.js post",
+    "email:dia-meetup": "node ./scripts/generate-email.js dia"
   },
   "repository": "git@github.com:Noders/Comunicaciones.git",
   "author": "Noders Core Team <hola@noders.com>",
