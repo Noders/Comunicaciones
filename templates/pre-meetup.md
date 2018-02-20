@@ -2,7 +2,7 @@
 
 Se acerca nuestro próximo meetup "[%name%](%url%)"  el **%date%**. En esta oportunidad son nuestros amigos de %venue.name% (%venue.address%) quienes nos recibirán en sus oficinas.
 
-Tenemos a los siguientes charlistas confirmados:
+Tenemos a l@s siguientes charlistas confirmad@s:
 
 %talks%
 
