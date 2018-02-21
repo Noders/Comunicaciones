@@ -1,0 +1,31 @@
+{
+  "name": "The girl with the JS tattoo",
+  "url": "https://www.meetup.com/es/NodersJS/events/jbwlfpyxfbcb/",
+  "date": "Jueves 08 de Marzo",
+  "venue": {
+    "name": "Universidad San Sebastián, Campus Bellavista",
+    "address": "Bellavista 7, Providencia. (Metro Baquedano)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Construyendo aplicaciones web para escritorio con Electron",
+      "speaker": "María Castro",
+      "url": "https://github.com/BlackHarpy",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Mejorando la experiencia Front-End con CSS Grid",
+      "speaker": "Kat Guzmán",
+      "url": "https://github.com/katguzmann",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Lightning Talk",
+      "title": "Creando escenas 3D con Three.js",
+      "speaker": "Tatiana Molina",
+      "url": "https://github.com/tatymoly"
+    }
+  ]
+}

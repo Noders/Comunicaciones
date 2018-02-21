@@ -1,10 +1,12 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[%name%](%url%)"  el **%date%**. En esta oportunidad son nuestros amigos de %venue.name% (%venue.address%) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[The girl with the JS tattoo](https://www.meetup.com/es/NodersJS/events/jbwlfpyxfbcb/)"  el **Jueves 08 de Marzo**. En esta oportunidad son nuestros amigos de Universidad San Sebastián, Campus Bellavista (Bellavista 7, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
 
 Tenemos a l@s siguientes charlistas confirmad@s:
 
-%talks%
+- Keynote: **Construyendo aplicaciones web para escritorio con Electron**, [María Castro](https://github.com/BlackHarpy)
+- Keynote: **Mejorando la experiencia Front-End con CSS Grid**, [Kat Guzmán](https://github.com/katguzmann)
+- Lightning Talk: **Creando escenas 3D con Three.js**, [Tatiana Molina](https://github.com/tatymoly)
 
 ¡Sabemos que tienes una charla fantástica que compartir y queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) [abriendo un issue en este link](https://github.com/Noders/Meetups/issues/new)
 
