@@ -1,6 +1,6 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[](https://www.meetup.com/es/NodersJS/events/jbwlfpyxfbcb/)"  el **Jueves 08 de Marzo**. En esta oportunidad son nuestros amigos de Universidad San Sebastian, Campus Bellavista (Bellavista 7, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[The girl with the JS tattoo](https://www.meetup.com/es/NodersJS/events/jbwlfpyxfbcb/)"  el **Jueves 08 de Marzo**. En esta oportunidad son nuestros amigos de Universidad San Sebastian, Campus Bellavista (Bellavista 7, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
 
 Tenemos a l@s siguientes charlistas confirmad@s:
 
