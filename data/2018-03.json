@@ -12,20 +12,21 @@
       "title": "Construyendo aplicaciones web para escritorio con Electron",
       "speaker": "María Castro",
       "url": "https://github.com/BlackHarpy",
-      "slidesUrl": ""
+      "slidesUrl": "https://blackharpy.github.io/talks/electron-basics/index.html#/"
     },
     {
       "type": "Keynote",
       "title": "Mejorando la experiencia Front-End con CSS Grid",
       "speaker": "Kat Guzmán",
       "url": "https://github.com/katguzmann",
-      "slidesUrl": ""
+      "slidesUrl": "http://slides.com/katguzman/cssgrid"
     },
     {
       "type": "Lightning Talk",
       "title": "Creando escenas 3D con Three.js",
       "speaker": "Tatiana Molina",
-      "url": "https://github.com/tatymoly"
+      "url": "https://github.com/tatymoly",
+      "slidesUrl": "http://slides.com/tatianamolina/threejs-1#/"
     }
   ]
 }
