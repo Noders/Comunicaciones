@@ -1,0 +1,31 @@
+{
+  "name": "El señor de los Async: El retorno del Await",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/",
+  "date": "Jueves 12 de Abril",
+  "venue": {
+    "name": "Centro Comunitario Bellavista",
+    "address": "Constitución 85, Providencia. (Metro Baquedano)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Introducción a la IA de juegos con Phaser",
+      "speaker": "Jorge Palacios",
+      "url": "https://github.com/pctroll",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Event loop y asincronia en otros universos",
+      "speaker": "Luis Jury",
+      "url": "https://github.com/lcjury",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Lightning Talk",
+      "title": "Cómo trabajar desde casa sin volverte loco",
+      "speaker": "Marcelo Felman",
+      "url": "https://github.com/marcelofelman"
+    }
+  ]
+}
