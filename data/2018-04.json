@@ -12,20 +12,21 @@
       "title": "Introducción a la IA de juegos con Phaser",
       "speaker": "Jorge Palacios",
       "url": "https://github.com/pctroll",
-      "slidesUrl": ""
+      "slidesUrl": "https://github.com/pctroll/aigamesphaser"
     },
     {
       "type": "Keynote",
       "title": "Event loop y asincronia en otros universos",
       "speaker": "Luis Jury",
       "url": "https://github.com/lcjury",
-      "slidesUrl": ""
+      "slidesUrl": "https://github.com/Noders/Meetups/files/1917597/eventloop.pdf"
     },
     {
       "type": "Lightning Talk",
       "title": "Cómo trabajar desde casa sin volverte loco",
       "speaker": "Marcelo Felman",
-      "url": "https://github.com/marcelofelman"
+      "url": "https://github.com/marcelofelman",
+      "slidesUrl": "https://github.com/marcelofelman/presentations/blob/master/Como%20trabajar%20desde%20tu%20casa.pdf"
     }
   ]
 }
