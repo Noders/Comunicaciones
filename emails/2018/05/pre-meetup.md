@@ -1,12 +1,12 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[{{Falta Nombre}}](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)"  el **Jueves 10 de Mayo**. En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[Noders: Infinnity var](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)"  el **Jueves 10 de Mayo**. En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
 
 Tenemos a l@s siguientes charlistas confirmad@s:
 
 - Keynote: **Dale sabor a tu JS con un poco de Curry(ing)()**, [Leonardo Graterol](https://github.com/pankas87)
 - Keynote: **Feathers y NuxtJS: los últimos Jedis**, [Carlos Betancourt](https://github.com/betacar)
-- Keynote: **Stan, monitoreando aplicaciones Nodejs en 20 minutos**, [Julia Leyton](https://github.com/julia-leyton)
+- Keynote: **Stan, monitoreando aplicaciones Node.js en 20 minutos**, [Julia Leyton](https://github.com/julia-leyton)
 
 ¡Sabemos que tienes una charla fantástica que compartir y queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) [abriendo un issue en este link](https://github.com/Noders/Meetups/issues/new)
 

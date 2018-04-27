@@ -1,5 +1,5 @@
 {
-  "name": "Jurassic vars",
+  "name": "Noders: Infinnity var",
   "url": "https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/",
   "date": "Jueves 10 de Mayo",
   "venue": {
@@ -23,7 +23,7 @@
     },
     {
       "type": "Keynote",
-      "title": "Stan, monitoreando aplicaciones Nodejs en 20 minutos",
+      "title": "Stan, monitoreando aplicaciones Node.js en 20 minutos",
       "speaker": "Julia Leyton",
       "url": "https://github.com/julia-leyton",
       "slidesUrl": ""
