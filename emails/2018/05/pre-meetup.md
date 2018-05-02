@@ -14,6 +14,6 @@ Tenemos a l@s siguientes charlistas confirmad@s:
 
 Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
 
-Recuerden que nos reuniremos este Miércoles 02 de Mayo a las 19:00 tenemos nuestro BurgerJS, una iniciativa simple, reunirnos en un local, comer hamburguesas, conocer gente nueva, compartir y conversar. [Confirma tú asistencia acá](https://www.meetup.com/es-ES/NodersJS/events/249634992/)
+Recuerden que este Miércoles 02 de Mayo a las 19:00 tenemos nuestro BurgerJS, una iniciativa simple, reunirnos en un local, comer hamburguesas, conocer gente nueva, compartir y conversar. [Confirma tú asistencia acá](https://www.meetup.com/es-ES/NodersJS/events/249634992/)
 
 ¡Un abrazo asíncrono y nos vemos en el Meetup!
