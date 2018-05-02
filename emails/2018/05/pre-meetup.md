@@ -1,6 +1,6 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[Noders: Infinnity var](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)"  el **Jueves 10 de Mayo**. En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[Noders: Infinity var](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)"  el **Jueves 10 de Mayo**. En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán en sus oficinas.
 
 Tenemos a l@s siguientes charlistas confirmad@s:
 
@@ -13,5 +13,7 @@ Tenemos a l@s siguientes charlistas confirmad@s:
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí](https://github.com/Noders/Meetups/issues/new) 
 
 Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
+
+Recuerden que nos reuniremos este Miércoles 02 de Mayo a las 19:00 tenemos nuestro BurgerJS, una iniciativa simple, reunirnos en un local, comer hamburguesas, conocer gente nueva, compartir y conversar. [Confirma tú asistencia acá](https://www.meetup.com/es-ES/NodersJS/events/249634992/)
 
 ¡Un abrazo asíncrono y nos vemos en el Meetup!
