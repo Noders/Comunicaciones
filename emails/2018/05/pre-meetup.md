@@ -12,8 +12,6 @@ Tenemos a l@s siguientes charlistas confirmad@s:
 
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí](https://github.com/Noders/Meetups/issues/new) 
 
-Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
-
-Recuerden que **hoy** Miércoles 02 de Mayo a las 19:00 tenemos nuestro BurgerJS, una iniciativa simple, reunirnos en un local, comer hamburguesas, conocer gente nueva, compartir y conversar. [Confirma tú asistencia acá](https://www.meetup.com/es-ES/NodersJS/events/249634992/)
+Además Recuerden que **hoy** Miércoles 02 de Mayo a las 19:00 tenemos nuestro BurgerJS, una iniciativa simple, reunirnos en un local, comer hamburguesas, conocer gente nueva, compartir y conversar. [Confirma tú asistencia acá](https://www.meetup.com/es-ES/NodersJS/events/249634992/)
 
 ¡Un abrazo asíncrono y nos vemos en el Meetup!
