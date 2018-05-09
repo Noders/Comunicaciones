@@ -1,0 +1,32 @@
+{
+  "name": "Noders: Infinity var",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/",
+  "date": "Jueves 10 de Mayo",
+  "venue": {
+    "name": "Centro Comunitario Bellavista",
+    "address": "Constitución 85, Providencia. (Metro Baquedano)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Dale sabor a tu JS con un poco de Curry(ing)()",
+      "speaker": "Leonardo Graterol",
+      "url": "https://github.com/pankas87",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Feathers y NuxtJS: los últimos Jedis",
+      "speaker": "Carlos Betancourt",
+      "url": "https://github.com/betacar",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Stan, monitoreando aplicaciones Node.js en 20 minutos",
+      "speaker": "Julia Leyton",
+      "url": "https://github.com/julia-leyton",
+      "slidesUrl": ""
+    }
+  ]
+}
