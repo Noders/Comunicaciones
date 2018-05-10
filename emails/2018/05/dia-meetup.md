@@ -8,7 +8,7 @@ Nos acompañarán en las charlas:
 - Keynote: **Feathers y NuxtJS: los últimos Jedis**, [Carlos Betancourt](https://github.com/betacar)
 - Keynote: **Stan, monitoreando aplicaciones Node.js en 20 minutos**, [Julia Leyton](https://github.com/julia-leyton)
 
-Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)
+Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)
 O por cualquiera de nuestras redes:
 
 Slack: [noders.slack.com](noders.slack.com)

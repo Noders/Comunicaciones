@@ -6,7 +6,7 @@ Nos acompañarán en las charlas:
 
 %talks%
 
-Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](https://www.meetup.com/es-ES/NodersJS/events/fbgwcpyxcbgb/)
+Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](%url%)
 O por cualquiera de nuestras redes:
 
 Slack: [noders.slack.com](noders.slack.com)
