@@ -1,12 +1,14 @@
 ¡Hola JavaScript@s!
 
-¡Estamos muy emocionados por el meetup de hoy! "[%name%](%url%)" En esta oportunidad son nuestros amigos de %venue.name% (%venue.address%) quienes nos recibirán.
+¡Estamos muy emocionados por el meetup de hoy! "[Noders: Infinity var](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)" En esta oportunidad son nuestros amigos de Centro Comunitario Bellavista (Constitución 85, Providencia. (Metro Baquedano)) quienes nos recibirán.
 
 Nos acompañarán en las charlas:
 
-%talks%
+- Keynote: **Dale sabor a tu JS con un poco de Curry(ing)()**, [Leonardo Graterol](https://github.com/pankas87)
+- Keynote: **Feathers y NuxtJS: los últimos Jedis**, [Carlos Betancourt](https://github.com/betacar)
+- Keynote: **Stan, monitoreando aplicaciones Node.js en 20 minutos**, [Julia Leyton](https://github.com/julia-leyton)
 
-Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](%url%)
+Si tienes alguna duda puedes dejarnos un comentario en la página del evento [aquí.](https://www.meetup.com/es-ES/NodersJS/events/jbwlfpyxgbhb/)
 O por cualquiera de nuestras redes:
 
 Slack: [noders.slack.com](noders.slack.com)
