@@ -1,0 +1,32 @@
+{
+  "name": "Fast and async",
+  "url": "https://www.meetup.com/es-ES/NodersJS/events/fkbmrpyxjbsb/",
+  "date": "Jueves 14 de Junio",
+  "venue": {
+    "name": "Compara Online",
+    "address": "Almirante Pastene 244, Providencia (Metro Manuel Montt)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Introducción al desarrollo de juegos multi-player",
+      "speaker": "Jorge Palacios",
+      "url": "https://github.com/pctroll",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Feathers y NuxtJS: los últimos Jedis",
+      "speaker": "Carlos Betancourt",
+      "url": "https://github.com/betacar",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Continuous deployment for NodeJs applicaions with Jenkins",
+      "speaker": "Renzo Cast",
+      "url": "https://github.com/sosongo",
+      "slidesUrl": ""
+    }
+  ]
+}
