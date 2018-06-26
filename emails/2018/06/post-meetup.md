@@ -14,4 +14,5 @@ Adicionalmente, agradecer a l@s charlistas por darse el tiempo de compartir su e
 
 ¿Quieres apoyar los meetups de NodersJS? Puedes colaborar con nosotros siendo venue (prestando espacios para los eventos),  o bien auspiciando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Déjanos la información para contactarte haciendo [click aquí](https://github.com/Noders/Meetups/issues/new) 
 
+
 ¡Un abrazo asíncrono y nos vemos en próximo el Meetup!
