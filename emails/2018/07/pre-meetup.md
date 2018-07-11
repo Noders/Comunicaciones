@@ -11,6 +11,8 @@ Tenemos a l@s siguientes charlistas confirmad@s:
 
 ¿Quieres apoyar los meetups de NodersJS?. Puedes colaborar con nosotros como venue (prestando espacios para los eventos), o bien patrocinando la comida y/o bebidas para ese día. ¡Todo es bienvenido! Si quieres ayudarnos, puedes dejarnos la información para contactarte [aquí](https://github.com/Noders/Meetups/issues/new) 
 
+No te olvides de pasar por nuestro perfil de [Medium](https://medium.com/noders) para leer los últimos articulos publicados por miembros de la comunidad.
+
 Recuerda confirmar tu asistencia, o liberar tu cupo en caso de que no puedas asistir.
 
 ¡Un abrazo asíncrono y nos vemos en el Meetup!
