@@ -1,0 +1,25 @@
+{
+  "name": "Jurassic vars",
+  "url": "https://www.meetup.com/es/NodersJS/events/snrpwpyxkbqb/",
+  "date": "Jueves 12 de Julio",
+  "venue": {
+    "name": "Centro Comunitario Bellavista",
+    "address": "Constitución 85, Providencia. (Metro Baquedano)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Introducción a service workers",
+      "speaker": "Yerko Palma",
+      "url": "https://github.com/YerkoPalma",
+      "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "El gran dolor de cabeza de los programadores de NodeJs, promise y manejo de sincronía",
+      "speaker": "Manuel Villafañe",
+      "url": "https://github.com/aljvilla",
+      "slidesUrl": ""
+    }
+  ]
+}
