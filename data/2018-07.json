@@ -12,14 +12,14 @@
       "title": "Introducción a service workers",
       "speaker": "Yerko Palma",
       "url": "https://github.com/YerkoPalma",
-      "slidesUrl": ""
+      "slidesUrl": "https://yerkopalma.github.io/service-workers-talk/"
     },
     {
       "type": "Keynote",
       "title": "El gran dolor de cabeza de los programadores de NodeJs, promise y manejo de sincronía",
       "speaker": "Manuel Villafañe",
       "url": "https://github.com/aljvilla",
-      "slidesUrl": ""
+      "slidesUrl": "https://github.com/Noders/Meetups/files/2193490/promise.pdf"
     }
   ]
 }
