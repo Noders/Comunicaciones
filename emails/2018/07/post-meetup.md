@@ -2,7 +2,7 @@
 
 Gracias a todos por haber asistido y participado en el último meetup.
 
-¡Queremos agradecer de forma especial a nuestros amigos de Centro Comunitario Bellavista por prestarnos sus oficinas para el evento y auspiciar la comida y las bebidas!
+¡Queremos agradecer de forma especial a nuestros amigos de Centro Comunitario Bellavista por prestarnos sus oficinas para el evento!
 
 Adicionalmente, agradecer a l@s charlistas por darse el tiempo de compartir su experiencia con nosotros:
 
