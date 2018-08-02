@@ -1,0 +1,18 @@
+{
+  "name": "de agosto",
+  "url": "https://www.meetup.com/es/NodersJS/events/snrpwpyxkbqb/",
+  "date": "Jueves 09 de Agosto",
+  "venue": {
+    "name": "uBiome Chile",
+    "address": "Av. Santa María 2810, Providencia. (Metro Tobalaba)"
+  },
+  "talks": [
+    {
+      "type": "Keynote",
+      "title": "Back to the Browser - Web components",
+      "speaker": "Sergio Marin",
+      "url": "https://github.com/highercomve",
+      "slidesUrl": ""
+    }
+  ]
+}
