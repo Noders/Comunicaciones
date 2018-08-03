@@ -1,6 +1,6 @@
 ¡Hola JavaScript@s!
 
-Se acerca nuestro próximo meetup "[de agosto](https://www.meetup.com/es/NodersJS/events/snrpwpyxkbqb/)"  el **Jueves 09 de Agosto**. En esta oportunidad son nuestros amigos de uBiome Chile (Av. Santa María 2810, Providencia. (Metro Tobalaba)) quienes nos recibirán en sus oficinas.
+Se acerca nuestro próximo meetup "[Bojack Horse.js man](https://www.meetup.com/es/NodersJS/events/snrpwpyxkbqb/)"  el **Jueves 09 de Agosto**. En esta oportunidad son nuestros amigos de uBiome Chile (Av. Santa María 2810, Providencia. (Metro Tobalaba)) quienes nos recibirán en sus oficinas.
 
 Tenemos a l@s siguientes charlistas confirmad@s:
 
