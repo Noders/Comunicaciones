@@ -13,6 +13,13 @@
       "speaker": "Sergio Marin",
       "url": "https://github.com/highercomve",
       "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Ethereum for node.js devs",
+      "speaker": "Raul Pino",
+      "url": "https://github.com/p1nox",
+      "slidesUrl": ""
     }
   ]
 }
