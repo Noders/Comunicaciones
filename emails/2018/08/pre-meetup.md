@@ -5,6 +5,7 @@ Se acerca nuestro próximo meetup "[Bojack Horse.js man](https://www.meetup.com/
 Tenemos a l@s siguientes charlistas confirmad@s:
 
 - Keynote: **Back to the Browser - Web components**, [Sergio Marin](https://github.com/highercomve)
+- Keynote: **Ethereum for node.js devs**, [Raul Pino](https://github.com/p1nox)
 
 ¡Sabemos que tienes una charla fantástica que compartir y queremos escucharte! Te invitamos a registrar tu charla (15 – 30 minutos) o lightning (5 – 10 minutos) [abriendo un issue en este link](https://github.com/Noders/Meetups/issues/new)
 
