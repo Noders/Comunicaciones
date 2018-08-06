@@ -20,6 +20,13 @@
       "speaker": "Raul Pino",
       "url": "https://github.com/p1nox",
       "slidesUrl": ""
+    },
+    {
+      "type": "Keynote",
+      "title": "Testing automatizado de front-ends",
+      "speaker": "Paula Riffo Astorga",
+      "url": "https://github.com/nodersjs",
+      "slidesUrl": ""
     }
   ]
 }
